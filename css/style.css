@@ -108,7 +108,7 @@ a:focus {
 
 .top-bar .top-bar-icon {
     width: 40px;
-    display: flex;
+    display: inline;
     align-items: center;
     justify-content: center;
 }
